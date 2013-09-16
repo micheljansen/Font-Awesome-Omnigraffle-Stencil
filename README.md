@@ -9,5 +9,5 @@ This Omnigraffle stencil contains all the icons in [Font Awesome](http://fontawe
 3. Click "install" in the top right corner of the stencil (optional).
 
 ## Credits
-* Font Awesome Project: Dave Gandy | [fontawesome.io](http://fontawesome.io)
+* Font Awesome Project: Dave Gandy – [fontawesome.io](http://fontawesome.io)
 * Font Awesome Omnigraffle Stencil: Michel Jansen – [micheljansen.org](http://micheljansen.org)
